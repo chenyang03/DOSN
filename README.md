@@ -10,9 +10,13 @@ We are interested in decentralized online social networks and the fediverse. We 
 ## Publications
 
 * Min Gao, Wen Wen, Haoran Du, Qiang Duan, Yu Xiao, Yupeng Li, Xin Wang, Pan Hui and Yang Chen*. Collaborative Social Bot Detection in the Fediverse. To appear: Proc. of WWW, 2026.
-
 * Min Gao, Haoran Du, Wen Wen, Qiang Duan, Xin Wang* and Yang Chen*. FediData: A Comprehensive Multi-Modal Fediverse Dataset from Mastodon. Proc. of the 34th ACM International Conference on Information and Knowledge Management (CIKM’25), Resource Track, Seoul, Korea, Nov. 2025.
-
 * Shaojie Min#, Shaobin Wang#, Yaxiao Luo, Min Gao, Qingyuan Gong*, Yu Xiao, Yang Chen*. FediLive: A Framework for Collecting and Preprocessing Snapshots of Decentralized Online Social Networks. Proc. of the Web Conference (WWW’25), Resource Track, Sydney, Australia, Apr.-May 2025.
+
+
+## Crawler/Data
+
+* FediLive: A Framework for Collecting and Preprocessing Snapshots of Decentralized Online Social Networks [[Project](https://github.com/FDUDataNET/FediLive)]
+* FediData: A Comprehensive Multi-Modal Fediverse Dataset form Mastodon [[Project](https://github.com/chenyang03/Airbnb)]
 
 

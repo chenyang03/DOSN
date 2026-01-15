@@ -5,7 +5,7 @@ Copyright (C) <2025-2026> by [Big Data and Networking Group, Fudan University](h
 
 ## Background
 
-We are interested in decentralized online social networks and the fediverse. We explore several aspects, including massive data collection, user behavior analytics, and outstanding account detection.
+We are interested in exploring decentralized online social networks and the fediverse, for example, Mastodon and Bluesky. We explore several aspects, including massive data collection, user behavior analytics, and outstanding account detection.
 
 ## Publications
 

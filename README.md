@@ -9,7 +9,7 @@ We are interested in exploring decentralized online social networks and the fedi
 
 ## Publications
 
-* Min Gao, Wen Wen, Haoran Du, Qiang Duan, Yu Xiao, Yupeng Li, Xin Wang, Pan Hui and Yang Chen*. FediScan: Collaborative Social Bot Detection in the Fediverse. To appear: Proc. of the Web Conference (WWW'26), Dubai, UAE, Apr. 2026. [[PDF](https://chenyang03.wordpress.com/wp-content/uploads/2026/02/2026-fediscan-www.pdf)]
+* Min Gao, Wen Wen, Haoran Du, Qiang Duan, Yu Xiao, Yupeng Li, Xin Wang, Pan Hui and Yang Chen*. FediScan: Collaborative Social Bot Detection in the Fediverse. Proc. of the Web Conference (WWW'26), Dubai, UAE, Apr. 2026. [[PDF](https://dl.acm.org/doi/10.1145/3774904.3792690)]
 * Min Gao, Haoran Du, Wen Wen, Qiang Duan, Xin Wang* and Yang Chen*. FediData: A Comprehensive Multi-Modal Fediverse Dataset from Mastodon. Proc. of the 34th ACM International Conference on Information and Knowledge Management (CIKM’25), Resource Track, Seoul, Korea, Nov. 2025. [[PDF](https://dl.acm.org/doi/10.1145/3746252.3761634)]
 * Shaojie Min#, Shaobin Wang#, Yaxiao Luo, Min Gao, Qingyuan Gong*, Yu Xiao, Yang Chen*. FediLive: A Framework for Collecting and Preprocessing Snapshots of Decentralized Online Social Networks. Proc. of the Web Conference (WWW’25), Resource Track, Sydney, Australia, Apr.-May 2025. [[PDF](https://dl.acm.org/doi/10.1145/3701716.3715298)]
 
